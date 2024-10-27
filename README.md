@@ -46,3 +46,5 @@ Review Tasks: All tasks to review are displayed in the list box. Unfinished task
 Mark Task as Completed: Select a task from the list and click "Mark Selected Task as Completed."
 
 Add Past Task: Click the "Add Past Task" button to add a task for a previous date.
+
+# **Special: Idea by me, code by GPT 🤣**
