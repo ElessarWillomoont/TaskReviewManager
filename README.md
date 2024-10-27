@@ -35,7 +35,7 @@ Running the Application
 
 To start the application, simply run:
 
-python TM.py
+python TRM.py
 
 ### Usage
 
